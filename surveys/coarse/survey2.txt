@@ -15,7 +15,7 @@ The purpose of this study is to gain a better understanding of how people percei
 
 <p><img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/instruction_scene.jpg" style="width: 500px; height: 375px;"></p>
 
-<p><span style="text-align: center;">R</span><strong style="text-align: center;">eal-world visual scene example</strong></p>
+<p><span style="text-align: center;"></span><strong style="text-align: center;">Real-world visual scene example</strong></p>
 
 <p><br>
 <strong>Procedures</strong><br>
@@ -45,7 +45,7 @@ You will be asked to rate how "meaningful" you think each scene patch is using a
 <img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/likert_rating.png" style="width: 550px; height: 63px;"></p>
 &nbsp;
 
-<p>You will select your answer by using the mouse to click on the bubble below the rating you wish to select. The task consists of 300 scene patches&nbsp;and will take approximately 30 minutes or less. &nbsp;This study will be conducted with an online Qualtrics-created survey.</p>
+<p>You will select your answer by using the mouse to click on the bubble below the rating you wish to select. The task consists of 300 scene patches&nbsp;and will take approximately 20 minutes or less. &nbsp;This study will be conducted with an online Qualtrics-created survey.</p>
 
 <p>&nbsp;</p>
 
@@ -54,11 +54,11 @@ Risks are minimal for involvement in this study. The only foreseeable risk in th
 &nbsp;</p>
 
 <p><strong>Compensation</strong><br>
-Participants will earn 0.5 SONA credits if they complete&nbsp;all 300 items of the&nbsp;task. &nbsp; Completed items are those that are rated in good faith by a human observer. &nbsp;Participants selecting all of the same rating and/or&nbsp;randomly selecting ratings (i.e., 'spamming') will not receive credit.<br>
+Participants will earn $3 if they complete&nbsp;all 300 items of the&nbsp;task. &nbsp; Completed items are those that are rated in good faith by a human observer. &nbsp;Participants selecting all of the same rating and/or&nbsp;randomly selecting ratings (i.e., 'spamming') will not receive reward.<br>
 &nbsp;</p>
 
 <p><strong>Benefits</strong><br>
-There are no direct benefits for participants besides the SONA credit. However, it is hoped that through your participation, researchers will learn more about how we visually process complex visual scenes.<br>
+There are no direct benefits for participants besides the monetary compensation. However, it is hoped that through your participation, researchers will learn more about how we visually process complex visual scenes.<br>
 &nbsp;</p>
 
 <p><strong>Confidentiality</strong><br>
@@ -66,15 +66,15 @@ All data obtained from participants will be kept strictly confidential and will 
 &nbsp;</p>
 
 <p><b>Institution Review Board (IRB) Approved</b><br>
-An Institutional Review Board responsible for human subjects research at INSTITUTION HERE reviewed this research project and found it to be acceptable according to applicable state and federal redulations and University policies designed to protect the rights and welfare of participants in research.<br>
+An Institutional Review Board responsible for human subjects research at the University of Michigan reviewed this research project and found it to be acceptable according to applicable state and federal redulations and University policies designed to protect the rights and welfare of participants in research.<br>
 &nbsp;</p>
 
 <p><strong>Participation</strong><br>
-Participation in this research study is completely voluntary. You have the right to withdraw at anytime. If you desire to withdraw, please close your internet browser and notify the investigator at this email: PI EMAIL HERE&nbsp; &nbsp;<br>
+Participation in this research study is completely voluntary. You have the right to withdraw at anytime. If you desire to withdraw, please close your internet browser and notify the investigator at this email: hanzh@umich.edu <br>
 &nbsp;</p>
 
 <p><strong>Questions about the Research, Participation, Concerns, or Complaints</strong><br>
-If you have questions or concerns regarding this study, you may contact the principal investigator&nbsp;at this email:&nbsp;PI EMAIL HERE.</p>
+If you have questions or concerns regarding this study, you may contact the principal investigator&nbsp;at this email: hanzh@umich.edu</p>
 
 <p><o:p></o:p></p>
 
@@ -91,7 +91,22 @@ Yes
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12537.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch8.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08986.png" /></a
 ></div>
 
 [[Choices]]
@@ -121,7 +136,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg77.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312466.png" /></a
 ></div>
 
 [[Choices]]
@@ -136,7 +151,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx35.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08932.png" /></a
 ></div>
 
 [[Choices]]
@@ -151,7 +166,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09651.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx68.png" /></a
 ></div>
 
 [[Choices]]
@@ -166,7 +181,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit69.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709684.png" /></a
 ></div>
 
 [[Choices]]
@@ -181,7 +196,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_125105.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158158.png" /></a
 ></div>
 
 [[Choices]]
@@ -196,7 +211,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235026.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif64.png" /></a
 ></div>
 
 [[Choices]]
@@ -211,22 +226,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc2.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-099.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz101.png" /></a
 ></div>
 
 [[Choices]]
@@ -243,782 +243,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12557.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-060.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif30.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq36.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11489.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09667.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12534.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09618.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412245.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235033.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0965.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312488.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-063.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_3124100.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl78.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412210.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg66.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716929.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx53.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx87.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-0105.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa21.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch9.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08944.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc57.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235059.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl22.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_096102.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl108.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg25.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx71.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021396.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09437.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02533.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412246.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08981.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch16.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx63.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr28.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0968.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021339.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02563.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch7.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg97.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc78.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12573.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235072.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch2.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10738.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716990.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit13.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08995.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_23507.png" /></a
 ></div>
 
 [[Choices]]
@@ -1048,7 +273,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc90.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_1075.png" /></a
 ></div>
 
 [[Choices]]
@@ -1063,7 +288,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09556.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_1078.png" /></a
 ></div>
 
 [[Choices]]
@@ -1078,7 +303,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235080.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg40.png" /></a
 ></div>
 
 [[Choices]]
@@ -1093,7 +318,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-044.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062676.png" /></a
 ></div>
 
 [[Choices]]
@@ -1108,7 +333,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11141.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit20.png" /></a
 ></div>
 
 [[Choices]]
@@ -1123,7 +348,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx60.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx81.png" /></a
 ></div>
 
 [[Choices]]
@@ -1138,24 +363,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133321.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc49.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt77.png" /></a
 ></div>
 
 [[Choices]]
@@ -1170,127 +378,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10074.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-066.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa2.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02512.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_1148.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062635.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit34.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12548.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235065.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716966.png" /></a
 ></div>
 
 [[Choices]]
@@ -1307,7 +395,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc44.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02561.png" /></a
 ></div>
 
 [[Choices]]
@@ -1322,7 +410,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj89.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021330.png" /></a
 ></div>
 
 [[Choices]]
@@ -1337,7 +425,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235099.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412233.png" /></a
 ></div>
 
 [[Choices]]
@@ -1352,7 +440,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj74.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt78.png" /></a
 ></div>
 
 [[Choices]]
@@ -1367,7 +455,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09646.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133336.png" /></a
 ></div>
 
 [[Choices]]
@@ -1382,7 +470,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit19.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09580.png" /></a
 ></div>
 
 [[Choices]]
@@ -1397,7 +485,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-047.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312446.png" /></a
 ></div>
 
 [[Choices]]
@@ -1412,7 +500,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12513.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr31.png" /></a
 ></div>
 
 [[Choices]]
@@ -1427,7 +515,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10712.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412214.png" /></a
 ></div>
 
 [[Choices]]
@@ -1442,159 +530,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx78.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410160.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt13.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09459.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12512.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-048.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412269.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx92.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit82.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062663.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-07.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch9.png" /></a
 ></div>
 
 [[Choices]]
@@ -1611,7 +547,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312444.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08937.png" /></a
 ></div>
 
 [[Choices]]
@@ -1626,7 +562,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc54.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062678.png" /></a
 ></div>
 
 [[Choices]]
@@ -1641,7 +577,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412293.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412226.png" /></a
 ></div>
 
 [[Choices]]
@@ -1656,7 +592,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312452.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09455.png" /></a
 ></div>
 
 [[Choices]]
@@ -1671,7 +607,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12563.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr65.png" /></a
 ></div>
 
 [[Choices]]
@@ -1686,7 +622,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_31241.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716913.png" /></a
 ></div>
 
 [[Choices]]
@@ -1701,7 +637,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl24.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt84.png" /></a
 ></div>
 
 [[Choices]]
@@ -1716,7 +652,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch12.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif101.png" /></a
 ></div>
 
 [[Choices]]
@@ -1731,7 +667,433 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10779.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz36.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10780.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062664.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062628.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02553.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410147.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg97.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq94.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz26.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-08.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235079.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg74.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133387.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq58.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl85.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch19.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11194.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11448.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062690.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr8.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09640.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_02132.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif57.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235018.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133322.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410159.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc22.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx99.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021334.png" /></a
 ></div>
 
 [[Choices]]
@@ -1759,11 +1121,9 @@ Somewhat High 4
 High 5
 Very High 6
 
-[[PageBreak]]
-
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc071697.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09541.png" /></a
 ></div>
 
 [[Choices]]
@@ -1778,127 +1138,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10758.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch14.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc80.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062627.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312497.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit74.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133344.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx36.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt103.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10790.png" /></a
 ></div>
 
 [[Choices]]
@@ -1915,7 +1155,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158172.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09510.png" /></a
 ></div>
 
 [[Choices]]
@@ -1930,7 +1170,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10727.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09457.png" /></a
 ></div>
 
 [[Choices]]
@@ -1945,7 +1185,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr51.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt2.png" /></a
 ></div>
 
 [[Choices]]
@@ -1960,7 +1200,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr46.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-0100.png" /></a
 ></div>
 
 [[Choices]]
@@ -1975,7 +1215,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062697.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062689.png" /></a
 ></div>
 
 [[Choices]]
@@ -1990,7 +1230,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709667.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11481.png" /></a
 ></div>
 
 [[Choices]]
@@ -2005,7 +1245,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09636.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0256.png" /></a
 ></div>
 
 [[Choices]]
@@ -2020,7 +1260,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412231.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq82.png" /></a
 ></div>
 
 [[Choices]]
@@ -2035,7 +1275,767 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc93.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl100.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch12.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-060.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl10.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_23509.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg35.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08926.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12515.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312469.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235084.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158135.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08916.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_094104.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412230.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt4.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09462.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11475.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021384.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09448.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz11.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-057.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12535.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235071.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-064.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch16.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02597.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz64.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx20.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr104.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410116.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj91.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10796.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch11.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx90.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz108.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc87.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif26.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc44.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410155.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410133.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-059.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz3.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-0104.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_125101.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133318.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch15.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif105.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09551.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx96.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021371.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716922.png" /></a
 ></div>
 
 [[Choices]]
@@ -2067,7 +2067,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr29.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx108.png" /></a
 ></div>
 
 [[Choices]]
@@ -2082,7 +2082,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif15.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716984.png" /></a
 ></div>
 
 [[Choices]]
@@ -2097,7 +2097,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12588.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235053.png" /></a
 ></div>
 
 [[Choices]]
@@ -2112,7 +2112,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif80.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj68.png" /></a
 ></div>
 
 [[Choices]]
@@ -2127,7 +2127,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc53.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj100.png" /></a
 ></div>
 
 [[Choices]]
@@ -2142,7 +2142,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-048.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-022.png" /></a
 ></div>
 
 [[Choices]]
@@ -2157,7 +2157,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch20.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif102.png" /></a
 ></div>
 
 [[Choices]]
@@ -2172,7 +2172,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq107.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11490.png" /></a
 ></div>
 
 [[Choices]]
@@ -2187,7 +2187,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716947.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410162.png" /></a
 ></div>
 
 [[Choices]]
@@ -2202,7 +2202,1223 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09430.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10062.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312450.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc07169102.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif68.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx40.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg5.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716990.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09434.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq20.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133361.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412225.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch17.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0954.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062631.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc103.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062643.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt19.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt47.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_089104.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709682.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11179.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09617.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412212.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt8.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx55.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10055.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709616.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl95.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-066.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-098.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09663.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq93.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx12.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235056.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc071696.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx64.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif37.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc071692.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08996.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-051.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11164.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021311.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-053.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif16.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-033.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc102.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709626.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312495.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133365.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit29.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_025107.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_0626106.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch14.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716934.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11198.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx60.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412264.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_4101108.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg48.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx104.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch7.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021354.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412248.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt53.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr43.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11138.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08930.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif94.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj66.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412268.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10013.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11137.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10061.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc14.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12580.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12581.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410175.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr68.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0968.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10760.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_025103.png" /></a
 ></div>
 
 [[Choices]]
@@ -2234,7 +3450,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09660.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit19.png" /></a
 ></div>
 
 [[Choices]]
@@ -2249,7 +3465,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158181.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr44.png" /></a
 ></div>
 
 [[Choices]]
@@ -2264,7 +3480,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_41019.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa29.png" /></a
 ></div>
 
 [[Choices]]
@@ -2279,7 +3495,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj51.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09555.png" /></a
 ></div>
 
 [[Choices]]
@@ -2294,7 +3510,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx19.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10774.png" /></a
 ></div>
 
 [[Choices]]
@@ -2309,7 +3525,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl85.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10084.png" /></a
 ></div>
 
 [[Choices]]
@@ -2324,7 +3540,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062615.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02546.png" /></a
 ></div>
 
 [[Choices]]
@@ -2339,7 +3555,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133359.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj29.png" /></a
 ></div>
 
 [[Choices]]
@@ -2354,161 +3570,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11459.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Block:BL02]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch19.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz16.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11120.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl98.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq57.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif9.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq2.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc62.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch17.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09540.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133379.png" /></a
 ></div>
 
 [[Choices]]
@@ -2525,7 +3587,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg1.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_1581100.png" /></a
 ></div>
 
 [[Choices]]
@@ -2540,7 +3602,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08956.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716933.png" /></a
 ></div>
 
 [[Choices]]
@@ -2555,7 +3617,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11175.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11488.png" /></a
 ></div>
 
 [[Choices]]
@@ -2570,7 +3632,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl27.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08929.png" /></a
 ></div>
 
 [[Choices]]
@@ -2585,7 +3647,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133319.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10026.png" /></a
 ></div>
 
 [[Choices]]
@@ -2600,7 +3662,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0897.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158117.png" /></a
 ></div>
 
 [[Choices]]
@@ -2615,7 +3677,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif28.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_107106.png" /></a
 ></div>
 
 [[Choices]]
@@ -2630,7 +3692,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11198.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt52.png" /></a
 ></div>
 
 [[Choices]]
@@ -2645,7 +3707,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif67.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit34.png" /></a
 ></div>
 
 [[Choices]]
@@ -2660,159 +3722,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312494.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021346.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021334.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410173.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410127.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10040.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133337.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12527.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc25.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-086.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif8.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc07169101.png" /></a
 ></div>
 
 [[Choices]]
@@ -2829,7 +3739,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx6.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11136.png" /></a
 ></div>
 
 [[Choices]]
@@ -2844,7 +3754,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx94.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx19.png" /></a
 ></div>
 
 [[Choices]]
@@ -2859,7 +3769,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit44.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062655.png" /></a
 ></div>
 
 [[Choices]]
@@ -2874,7 +3784,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235083.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj32.png" /></a
 ></div>
 
 [[Choices]]
@@ -2889,7 +3799,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_02137.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif27.png" /></a
 ></div>
 
 [[Choices]]
@@ -2904,7 +3814,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10748.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09546.png" /></a
 ></div>
 
 [[Choices]]
@@ -2919,7 +3829,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09560.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412296.png" /></a
 ></div>
 
 [[Choices]]
@@ -2934,7 +3844,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-026.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312482.png" /></a
 ></div>
 
 [[Choices]]
@@ -2949,7 +3859,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133381.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl76.png" /></a
 ></div>
 
 [[Choices]]
@@ -2964,159 +3874,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10023.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg58.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716993.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch1.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-032.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-060.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj106.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_1333103.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08985.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr6.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq8.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch20.png" /></a
 ></div>
 
 [[Choices]]
@@ -3133,7 +3891,52 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08915.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq81.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl68.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl59.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02590.png" /></a
 ></div>
 
 [[Choices]]
@@ -3163,7 +3966,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif57.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_111105.png" /></a
 ></div>
 
 [[Choices]]
@@ -3178,7 +3981,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr54.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch1.png" /></a
 ></div>
 
 [[Choices]]
@@ -3193,7 +3996,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif44.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-027.png" /></a
 ></div>
 
 [[Choices]]
@@ -3208,7 +4011,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09674.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx75.png" /></a
 ></div>
 
 [[Choices]]
@@ -3223,52 +4026,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx40.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235025.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-074.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235035.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit87.png" /></a
 ></div>
 
 [[Choices]]
@@ -3285,7 +4043,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit41.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx33.png" /></a
 ></div>
 
 [[Choices]]
@@ -3300,7 +4058,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj91.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312435.png" /></a
 ></div>
 
 [[Choices]]
@@ -3315,7 +4073,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235062.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-061.png" /></a
 ></div>
 
 [[Choices]]
@@ -3330,7 +4088,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11415.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158132.png" /></a
 ></div>
 
 [[Choices]]
@@ -3345,7 +4103,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10717.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl55.png" /></a
 ></div>
 
 [[Choices]]
@@ -3360,7 +4118,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12510.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_11169.png" /></a
 ></div>
 
 [[Choices]]
@@ -3375,7 +4133,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02528.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj33.png" /></a
 ></div>
 
 [[Choices]]
@@ -3390,7 +4148,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158131.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_41019.png" /></a
 ></div>
 
 [[Choices]]
@@ -3405,7 +4163,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt40.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr5.png" /></a
 ></div>
 
 [[Choices]]
@@ -3420,463 +4178,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021387.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt89.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08927.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt33.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_111100.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa86.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch13.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch15.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-072.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10769.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709683.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch8.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx66.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09525.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit103.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08943.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08951.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158111.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt28.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021342.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09496.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09623.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr76.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj95.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx27.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt8.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09643.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410156.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz76.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0951.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10753.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02571.png" /></a
 ></div>
 
 [[Choices]]
@@ -3908,7 +4210,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-019.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09568.png" /></a
 ></div>
 
 [[Choices]]
@@ -3923,7 +4225,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr10.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412249.png" /></a
 ></div>
 
 [[Choices]]
@@ -3938,7 +4240,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-0101.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-052.png" /></a
 ></div>
 
 [[Choices]]
@@ -3953,7 +4255,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-013.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit43.png" /></a
 ></div>
 
 [[Choices]]
@@ -3968,7 +4270,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02597.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch13.png" /></a
 ></div>
 
 [[Choices]]
@@ -3983,7 +4285,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif35.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz75.png" /></a
 ></div>
 
 [[Choices]]
@@ -3998,7 +4300,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg65.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158176.png" /></a
 ></div>
 
 [[Choices]]
@@ -4013,7 +4315,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx58.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_235090.png" /></a
 ></div>
 
 [[Choices]]
@@ -4028,159 +4330,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412267.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-030.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-034.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0961.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09574.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz103.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr78.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt51.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-090.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx47.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709662.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ahvszpwjtodgwusx29.png" /></a
 ></div>
 
 [[Choices]]
@@ -4197,7 +4347,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl28.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq34.png" /></a
 ></div>
 
 [[Choices]]
@@ -4212,7 +4362,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08970.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09526.png" /></a
 ></div>
 
 [[Choices]]
@@ -4227,7 +4377,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg86.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02527.png" /></a
 ></div>
 
 [[Choices]]
@@ -4242,7 +4392,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit26.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133324.png" /></a
 ></div>
 
 [[Choices]]
@@ -4257,7 +4407,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_158161.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062670.png" /></a
 ></div>
 
 [[Choices]]
@@ -4272,7 +4422,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09672.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312497.png" /></a
 ></div>
 
 [[Choices]]
@@ -4287,7 +4437,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133372.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz57.png" /></a
 ></div>
 
 [[Choices]]
@@ -4302,7 +4452,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx91.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa22.png" /></a
 ></div>
 
 [[Choices]]
@@ -4317,7 +4467,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl13.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-0105.png" /></a
 ></div>
 
 [[Choices]]
@@ -4332,159 +4482,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa17.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg30.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg107.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aawvoklsoluipehz85.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062672.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl73.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx77.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt47.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg40.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021355.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-016.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10791.png" /></a
 ></div>
 
 [[Choices]]
@@ -4501,7 +4499,204 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412284.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc1.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10011.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa15.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr16.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-085.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_abzaicgobhjswlxg78.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312442.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_025100.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312479.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch2.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_10048.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt69.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_312489.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-033.png" /></a
 ></div>
 
 [[Choices]]
@@ -4531,66 +4726,6 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09629.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133318.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajgebwheenyurlit79.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_412228.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
 <a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch4.png" /></a
 ></div>
 
@@ -4606,7 +4741,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-029.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr42.png" /></a
 ></div>
 
 [[Choices]]
@@ -4621,7 +4756,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_asrhohyqzajswxsa29.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aegixgtgmmvqheiw-025.png" /></a
 ></div>
 
 [[Choices]]
@@ -4636,7 +4771,22 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-0102.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_1581105.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133313.png" /></a
 ></div>
 
 [[Choices]]
@@ -4653,7 +4803,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09424.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_709668.png" /></a
 ></div>
 
 [[Choices]]
@@ -4668,7 +4818,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq51.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_0943.png" /></a
 ></div>
 
 [[Choices]]
@@ -4683,7 +4833,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt86.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_dsc0716977.png" /></a
 ></div>
 
 [[Choices]]
@@ -4698,7 +4848,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_09621.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_021383.png" /></a
 ></div>
 
 [[Choices]]
@@ -4713,7 +4863,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr106.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aweoztuheglqxpoe-079.png" /></a
 ></div>
 
 [[Choices]]
@@ -4728,7 +4878,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq19.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_062637.png" /></a
 ></div>
 
 [[Choices]]
@@ -4743,7 +4893,37 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch11.png" /></a
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awqxiwmqccwmgejq1.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_atyasoydrjavyfux-097.png" /></a
+></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axftyltjljtworuj79.png" /></a
 ></div>
 
 [[Choices]]
@@ -4759,188 +4939,6 @@ Very High 6
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/coarse_catch6.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_ajzsgfiolbbxlgxc75.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_apueeecjfdprzyjl26.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_12582.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_02578.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aafqetztbkmzxsif97.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_aalbxgjwijppgzjr19.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_133351.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_img_08964.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_axarcshsnqsefemx108.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_1581102.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_IMG_410139.png" /></a
-></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/HanZhang-psych/SceneMeaningMapping/master/patch_stimuli/coarse/after_sun_awkhwzafhbdrlgkt55.png" /></a
 ></div>
 
 [[Choices]]
