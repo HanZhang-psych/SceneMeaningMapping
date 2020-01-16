@@ -1,0 +1,77 @@
+[[AdvancedFormat]]
+
+[[Block:Instructions]]
+
+[[Question:Text]]
+<p style="text-align: center; ">
+<p><strong><span style="font-size:19px;">Informed Consent Form</span></strong></p>
+​
+<p><strong>Introduction</strong><br>
+The purpose of this study is to gain a better understanding of how people perceive real-world visual scenes like this:<br>
+&nbsp;</p>
+​
+<p><img height="450" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/instruction_scene.jpg" style="width: 600px; height: 450px;" width="600"><br>
+<strong>Real-world visual scene example</strong></p>
+​
+<p><br>
+<strong>Procedures</strong><br>
+If you agree to take part in this study, you will be presented with a series of images&nbsp;which are&nbsp;small patches&nbsp;of&nbsp;larger real-world scenes like the one above. Your task will be to&nbsp;to rate how "meaningful" you think each scene patch&nbsp;is. &nbsp;<br>
+<br>
+What do we mean by "meaningful"? We want you to assess how "meaningful" an image is based on how informative or recognizable you think it is. <br>
+<br>
+For example, here are two scene patches taken from the example scene above that would be very low meaning. Note that the location of the scene patch is encircled in green on the larger scene to help you recognize it. These patches show parts of the scene that would be very difficult to recognize without the surrounding scene context.&nbsp;<br>
+<br>
+&nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sky_context.jpg" style="width: 400px; height: 201px;" width="400"><br>
+<br>
+&nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sidewalk_context.jpg" style="width: 400px; height: 201px;" width="400"><br><br></p>
+<br>
+<p>And here are two example patches that would be very high in meaning.<br>
+<br>
+&nbsp; <img height="202" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/HM_car_context.jpg" style="width: 400px; height: 202px;" width="400"><br>
+<p>&nbsp; <img height="202" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/HM_house_context.jpg" style="width: 400px; height: 202px;" width="400"><br /><br />
+Both of these patches contain information that is easily&nbsp;recognized even without the example scene.&nbsp;<br>
+<br>
+<br>
+You will be asked to rate how "meaningful" you think each scene patch is using a 6-point scale. &nbsp;A rating of 1 means you think the scene patch is very low meaning like the sky example. &nbsp;A&nbsp;rating of 6 means you think the scene patch is very high meaning like the spatula example.&nbsp;Many patches will fall somewhere between these two extremes and you should select a middle value. The 6-point scale will look like this:</p><p><br>
+<img height="69" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/likert_rating.png" style="width: 600px; height: 69px;" width="600"></p>
+​
+<p>You will select your answer by using the mouse to click on the bubble below the rating you wish to select. The task consists of 300 scene patches&nbsp;and will take approximately 20 minutes or less.&nbsp;&nbsp;</p><p>
+<br>
+<strong>Risks/Discomforts</strong><br>
+Risks are minimal for involvement in this study. The only foreseeable risk in this study is the possibility of boredom.&nbsp;<br>
+&nbsp;<br>
+<p><strong>Compensation</strong><br>
+Participants will earn 0.5 SONA credits if they complete&nbsp;all 300 items of the&nbsp;task. &nbsp; Completed items are those that are rated in good faith by a human observer. &nbsp;Participants selecting all of the same rating and/or&nbsp;randomly selecting ratings (i.e., 'spamming') will not receive credit.</p>
+&nbsp;<br>
+<strong>Benefits</strong><br>
+There are no direct benefits for you besides the monetary compensation. However, it is hoped that through your participation, researchers will learn more about how we visually process complex visual scenes.<br>
+<br>
+<strong>Confidentiality</strong><br>
+All data obtained will be kept strictly confidential and will only be reported in an aggregate format (by reporting only combined results and never reporting individual ones). All questionnaires will be concealed, and no one other than the primary investigator and assistant researchers below will have access to them. The data collected will be stored in the HIPPA-compliant, Qualtrics-secure database until it has been deleted by the primary investigator.<br>
+&nbsp;<br>
+<strong>Institution Review Board (IRB) Approved</strong><br>
+An Institutional Review Board responsible for human subjects research at INSTITUTION HERE reviewed this research project and found it to be acceptable according to applicable state and federal regulations and University policies designed to protect the rights and welfare of participants in research.<br>
+&nbsp;<br>
+<strong>Participation</strong><br>
+Participation in this research study is completely voluntary. You have the right to withdraw at any time. If you desire to withdraw, please close your internet browser and notify the principal investigator at this email: PI EMAIL HERE&nbsp; &nbsp;<br>
+&nbsp;<br>
+<strong>Questions about the Research, Participation, Concerns, or Complaints</strong><br>
+If you have questions or concerns regarding this study, you may contact the principal investigator&nbsp;at this email:&nbsp;PI EMAIL HERE.&nbsp;<br>
+&nbsp;</p>
+​
+<div><br></div>
+
+
+
+
+
+
+
+
+<div style="text-align: right;"><input onclick="" value="Print" type="button"></div>
+
+[[Question:MC:SingleAnswer:Vertical]]
+I have read, understood, and printed a copy of, the above consent form and desire of my own free will to participate in this study.&nbsp; If you do not wish to participate please close your browser window.
+[[Choices]]
+Yes
+
