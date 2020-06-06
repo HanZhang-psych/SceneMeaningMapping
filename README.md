@@ -1,5 +1,5 @@
 # SceneMeaningMapping
-Scene patches generated from stimuli in a scene perception task based on methods in Henderson & Hayes (2017). The patches were then used to build meaning maps using methods described in their paper.
+Meaning maps of 36 natrual scenes generated based on Henderson & Hayes (2017). 
 
 * `code`: code to construct meaning maps from rating data
 * `data`: contains raw data and end results
